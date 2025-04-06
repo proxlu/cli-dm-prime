@@ -1,6 +1,8 @@
 # cli-dm-optimus
 Solução de troca de vídeo e login automático para laptops optimus.
 
+### Importante: Essa solução depende de instalar nvidia-xrun
+
 ### Caso use essa solução no xfce4, no qual ela já tá configurada, cole o conteúdo abaixo no seu arquivo ".bashrc":
 ```
 # cliwm tty2
